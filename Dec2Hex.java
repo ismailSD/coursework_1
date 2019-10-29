@@ -7,6 +7,7 @@ class Dec2Hex
 
     public static void main(String args[])
     {
+	System.out.println("Hi Jenkins, please let me know if you get this!");
         if (args.length > 0) 
         {
             try 
